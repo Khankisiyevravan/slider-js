@@ -164,5 +164,6 @@ function A(g) {
   );
 }
 
+
 const D = document.querySelector(".fashion-slider");
 A(D);
