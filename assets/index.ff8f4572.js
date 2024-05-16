@@ -163,6 +163,3 @@ function A(g) {
     r
   );
 }
-const D = document.querySelector(".fashion-slider");
-console.log(D);
-A(D);
