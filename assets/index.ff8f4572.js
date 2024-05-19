@@ -31,7 +31,7 @@ const T = function () {
 };
 T();
 function A(g) {
-  const m = g.querySelector(".swiper");
+  const m = g?.querySelector(".swiper");
   let a = !1,
     u = !1,
     t;
