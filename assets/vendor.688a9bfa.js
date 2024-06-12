@@ -1,3 +1,4 @@
+
 var e = Object.defineProperty,
   t = Object.defineProperties,
   s = Object.getOwnPropertyDescriptors,
